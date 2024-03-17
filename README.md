@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a new developer looking for challenging opportunities and new career path!<br><br>🔭 I’m currently working on Asset Management Program<br>🤝 I’m looking for help with<br>🌱 I’m open to learning new things all the time!<br>💬 Ask me about anything!<br>
+I am a new developer looking for challenging opportunities and new career path!<br><br>🔭 I’m currently working on Asset Management Program<br>🤝 I’m looking for help with anything that will help me success in the career path!<br>🌱 I’m open to learning new things all the time!<br>💬 Ask me about anything!<br>
 
 
 # 💻 Tech Stack:
