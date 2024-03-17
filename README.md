@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a new developer looking for challenging opportunities and new career path!<br><br>🔭 I’m currently working on Asset Management Program<br>🤝 I’m looking for help with anything that will help me success in the career path!<br>🌱 I’m open to learning new things all the time!<br>💬 Ask me about anything!<br>
+Hi! I'm Tas, a passionate and eager new developer currently working on an Asset Management Program. I'm actively seeking challenging opportunities and a fulfilling career path in software development.  I'm always open to learning new things and collaborating with others. Feel free to reach out and ask me anything!
+
+🔭 I'm currently working on: Asset Management Program
+
+🤝 I'm looking for help with: Growing my skills and finding new opportunities in software development. 
+
+🌱 I'm always learning:  I'm enthusiastic about expanding my knowledge base and tackling new challenges.
+
+💬 Ask me about:  Anything! I'm happy to chat and connect.
 
 
 # 💻 Tech Stack:
