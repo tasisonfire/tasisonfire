@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Tas, a passionate and eager new developer currently working on an Asset Management Program. I'm actively seeking challenging opportunities and a fulfilling career path in software development.  I'm always open to learning new things and collaborating with others. Feel free to reach out and ask me anything!
+Hi! I'm Tas, I just love to understand how things work. Being able to explore and see how things were created is a bliss for me! I have a passion for creating new things that will make my life easier.
 
 🔭 I'm currently working on: Asset Management Program
 
