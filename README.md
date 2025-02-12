@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Tas, I just love to understand how things work. Being able to explore and see how things were created is a bliss for me! I have a passion for creating new things that will make my life easier.
 
-🔭 I'm currently working on: Asset Management Program
+🔭 I'm currently working on: My own project SAAS
 
 🤝 I'm looking for help with: Growing my skills and finding new opportunities in software development. 
 
